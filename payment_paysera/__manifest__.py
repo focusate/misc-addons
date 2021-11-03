@@ -25,5 +25,5 @@
         'static/description/main_screenshot.jpg',
     ],
     'post_init_hook': 'create_missing_journal_for_acquirers',
-    'installable': True,
+    'installable': False,
 }

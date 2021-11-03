@@ -7,5 +7,5 @@
     'category': 'Security',
     'website': 'https://naglis.me/',
     'license': 'AGPL-3',
-    'installable': True,
+    'installable': False,
 }
